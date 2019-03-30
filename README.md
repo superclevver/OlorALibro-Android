@@ -5,4 +5,4 @@ Aplicación móvil donde los usuarios pueden buscar librerías y sus actividades
 
 
 # Más información
-Esta fue la primera vez que hacía una aplicación en Android.
+Esta fue la primera vez que hacía una aplicación elavorada en Android.
