@@ -1,4 +1,4 @@
-# OlorALibro-Android (Primer proyecto en equipo)
+# OlorALibro-Android
 
 Aplicación móvil donde los usuarios pueden buscar librerías y sus actividades, con el fin de apuntarse a una de ellas.
 
